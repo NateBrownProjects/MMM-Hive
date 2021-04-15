@@ -41,7 +41,7 @@ Then add in the following command:
 ``` 0 9 * * * ~/Desktop/MMM-Hive/hive.sh ```
 and:  
 
-``` 0 21 * * * ~/Desktop/MMM-Hive/hiveoff.sh ```
+- ``` 0 21 * * * ~/Desktop/MMM-Hive/hiveoff.sh ```
 
 These 2 commands will run H.I.V.E at 9:00AM every day and will turn on your display at 9:00AM and turn off your display and stop at 9:00PM. For more infomation about crontab, please click the link below.
 https://help.dreamhost.com/hc/en-us/articles/215767047-Creating-a-custom-Cron-Job
