@@ -6,8 +6,6 @@ pip3 install datetime
 pip3 install wikipedia
 pip3 install pyjokes
 pip3 install math
-pip3 install vosk
-pip3 install rasa
 pip3 install requests
 pip3 install owm
 pip3 install wx
