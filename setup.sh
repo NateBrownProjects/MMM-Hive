@@ -10,5 +10,5 @@ pip3 install requests
 pip3 install owm
 pip3 install wx
 pip3 install virtualenv
-virtualenv TheHiveProject
+sudo virtualenv TheHiveProject
 rm -r setup.sh
